@@ -1,0 +1,19 @@
+{
+  "name": "web2prj4",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "sass": "npx sass --watch ./src/scss/main.scss:./src/css/main.css"
+  },
+  "devDependencies": {
+    "sass": "^1.89.2",
+    "vite": "^7.0.4"
+  },
+  "dependencies": {
+    "animate.css": "^4.1.1"
+  }
+}
