@@ -463,7 +463,7 @@
   background-position-y: 50%;
   background-size: contain;
   background-repeat: no-repeat;
-  background-image: url(/images/background.png);
+  background-image: url(../images/background.png);
 }
 #app .blog-container {
   width: 100%;
